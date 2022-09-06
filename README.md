@@ -12,9 +12,9 @@
 
 &nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
 # Project Overview
-- - &nbsp;&nbsp;&nbsp;<img src="projects/p1.png" width="800">
-- - &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="800">
-- - &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p1.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
 # Project Demonstration
 - Demonstration video (Click the image below to go to YouTube) </br></br>
