@@ -17,5 +17,4 @@
 - &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
 # Project Demonstration
-- Demonstration video (Click the image below to go to YouTube) </br></br>
-[![시연](projects/pino-main.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
+&nbsp;&nbsp;&nbsp;<img width="85%" src="projects/pino.gif"/>
