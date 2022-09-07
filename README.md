@@ -17,4 +17,4 @@
 - &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
 # Project Demonstration
-&nbsp;&nbsp;&nbsp;<img width="85%" src="projects/pino.gif"/>
+&nbsp;&nbsp;&nbsp;<img width="90%" src="projects/pino.gif"/>
